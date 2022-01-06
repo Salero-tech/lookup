@@ -2,7 +2,7 @@
 ## content:
 
 * [operations](#operations)
-* [data types](#datatypes)
+* [data types](#data-types)
 * [typdef Enum](#typdef-enum)
 
 <br>
@@ -41,7 +41,7 @@ modolo returns the rest of an division. There is no decimal point!
 ### **! logical invertion** 
 Logical invertion returns the oposit of the local value of the input.
 
-[When is a number true?](#How-to-find-out-if-a-number-is-true-or-false?)
+[When is a number true?](##How-to-find-out-if-a-number-is-true-or-false?)
 
 **example:** <br>
 !12 = false
@@ -53,7 +53,7 @@ Logical invertion returns the oposit of the local value of the input.
 ### **|| logical OR**
 Logical OR findsout if one of your two input variables is true.
 
-[When is a number true?](#How-to-find-out-if-a-number-is-true-or-false?)
+[When is a number true?](##How-to-find-out-if-a-number-is-true-or-false?)
 
 **example:** <br>
 15 || 10 = 1
@@ -65,7 +65,7 @@ Logical OR findsout if one of your two input variables is true.
 ### **&& logical AND**
 Logical AND findsout if both of your two input variables are true.
 
-[When is a number true?](#How-to-find-out-if-a-number-is-true-or-false?)
+[When is a number true?](##How-to-find-out-if-a-number-is-true-or-false?)
 
 **example:** <br>
 15 && 10 = 1
@@ -92,11 +92,12 @@ this means: <br>
 ~0b11001111 = 0b00110000
 
 ### **| bit OR**
+Every where where the first or the second number has a 1 the result will have one too.
+<br>
 0b10000001 <br>
 0b00110000 <br>
 &darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr; <br>
 0b10110001 <br>
-Every where where the first or the second number has a 1 the result will have one too.
 
 **example:** <br>
 0b10000001 | 0b00110000 = 0b10110001
@@ -106,11 +107,12 @@ Every where where the first or the second number has a 1 the result will have on
 0b00000000 | 0b10000001 = 0b10000001
 
 ### **& bit AND**
+Every where where the first and the second number has a 1 the result will have one too.
+<br>
 0b10000001 <br>
 0b10110000 <br>
 &darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr;&darr; <br>
 0b10000000 <br>
-Every where where the first and the second number has a 1 the result will have one too.
 
 **example:** <br>
 0b10000001 & 0b10110000 = 0b10000000
