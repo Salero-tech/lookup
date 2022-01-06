@@ -21,7 +21,25 @@
 In C the following Operators exists:
 *,+,-,/,%,!,|,||,&,&&,^,~
 
+### + addition
+Simple addtition.
+<br>
+**example:**
+10 + 2 = 12
+
+### - subtraktion
+Simple subtraktion.
+<br>
+**example:**
+10 - 2 = 8
+
 ## number operators
+### * multiply
+Simple multiplikation.
+<br>
+**example:**
+10 * 2 = 20
+
 ### / devide
 Simple division.
 <br>
@@ -75,6 +93,17 @@ Logical AND findsout if both of your two input variables are true.
 5 && 0 = 0
 <br>
 0 && 0 = 0
+
+### **>< bigger than and smaller than**
+Returns true or false depending on whitch number is bigger
+<br>
+There also exists **>= <=** whitch do also return true if the numbers are the same.
+
+**example:** <br>
+15 > 10 = 1
+<br>
+15 < 10 = 0
+<br>
 
 
 ## bit operators
