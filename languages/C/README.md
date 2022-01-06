@@ -5,10 +5,12 @@
 * [data types](#data-types)
 * [typdef Enum](#typdef-enum)
 
+
 <br>
 <br>
 <br>
 <br>
+
 
 
 
@@ -41,7 +43,7 @@ modolo returns the rest of an division. There is no decimal point!
 ### **! logical invertion** 
 Logical invertion returns the oposit of the local value of the input.
 
-[When is a number true?](##How-to-find-out-if-a-number-is-true-or-false?)
+[When is a number true?](#how-to-find-out-if-a-number-is-true-or-false)
 
 **example:** <br>
 !12 = false
@@ -53,7 +55,7 @@ Logical invertion returns the oposit of the local value of the input.
 ### **|| logical OR**
 Logical OR findsout if one of your two input variables is true.
 
-[When is a number true?](##How-to-find-out-if-a-number-is-true-or-false?)
+[When is a number true?](#how-to-find-out-if-a-number-is-true-or-false)
 
 **example:** <br>
 15 || 10 = 1
@@ -65,7 +67,7 @@ Logical OR findsout if one of your two input variables is true.
 ### **&& logical AND**
 Logical AND findsout if both of your two input variables are true.
 
-[When is a number true?](##How-to-find-out-if-a-number-is-true-or-false?)
+[When is a number true?](#how-to-find-out-if-a-number-is-true-or-false)
 
 **example:** <br>
 15 && 10 = 1
@@ -137,9 +139,11 @@ basicly the first number is the output but every where where the second number h
 # data types
 
 ## bool
-## How to find out if a number is true or false?: <br>
+
+### How to find out if a number is true or false?
 **A number is false when it is not 0!**
 otherwise its true!
+
 
 
 # typdef enum
